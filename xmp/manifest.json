@@ -1,0 +1,11 @@
+{
+    "name": "XMP",
+    "id": 20000,
+    "commands": [
+        {
+            "theme": "XMP",
+            "syntax": "Exempi(&T;&L;&J):J",
+            "threadSafe": true
+        }
+    ]
+}
